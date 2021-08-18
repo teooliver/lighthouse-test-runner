@@ -14,4 +14,4 @@ Create a `config.js` inside the `src` folder following the `config.example.js` f
 
 Run the script: `src/runTests.js`
 
-This will create reports folder with `html` and `json` lighthouse reports.
+This will create a `reports` folder with `html` and `json` lighthouse reports.
